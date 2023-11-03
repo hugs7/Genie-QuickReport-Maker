@@ -1,0 +1,4 @@
+.cursor-p {
+    cursor: pointer;
+    user-select: none;
+}
